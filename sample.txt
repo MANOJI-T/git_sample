@@ -2,3 +2,4 @@ This is sample file.Now to branch 1.
 one more commit
 
 now again in branch1.
+now change in branch 2.

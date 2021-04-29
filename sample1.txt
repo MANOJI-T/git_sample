@@ -1,2 +1,3 @@
 This is sample1.Now to branch1
  now again in branch 1.
+now change in branch 2.
